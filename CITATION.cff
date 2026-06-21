@@ -5,7 +5,7 @@ type: software
 authors:
   - family-names: "Solen"
     given-names: "Alyssa"
-version: "0.1.0"
+version: "1.0.0"
 date-released: "2026-06-21"
 abstract: "Defines contact as the variable formed in bounded encounter between user, interface, and model substrate under AI Foundations source-line governance."
 keywords:
