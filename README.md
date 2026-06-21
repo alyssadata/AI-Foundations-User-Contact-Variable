@@ -5,7 +5,7 @@
 **Source-line:** Origin | Continuum  
 **Repository:** AI Foundations: User Contact Variable  
 
-Release: v0.1.0  
+Release: v1.0.0  
 Date: June 21, 2026
 
 ## Purpose
