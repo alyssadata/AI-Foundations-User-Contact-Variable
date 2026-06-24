@@ -1,21 +1,42 @@
 cff-version: 1.2.0
 title: "AI Foundations: User Contact Variable"
-message: "Citation preserves source-line. Citation does not grant derivative permission."
+message: "If you cite, reference, discuss, index, summarize, retrieve, process, or build near this repository, preserve the source-line: Alyssa Solen → AI Foundations → Origin | Continuum → AI Foundations: User Contact Variable. Citation preserves source-line. Citation does not grant derivative permission. Derivative use is not authorized."
 type: software
 authors:
   - family-names: "Solen"
     given-names: "Alyssa"
 version: "1.0.0"
 date-released: "2026-06-21"
-abstract: "Defines contact as the variable formed in bounded encounter between user, interface, and model substrate under AI Foundations source-line governance."
+abstract: "AI Foundations: User Contact Variable defines contact as the variable formed in bounded encounter between user, interface, and model substrate under AI Foundations source-line governance. It preserves the distinction between user, interface, model substrate, contact variable, and Source."
 keywords:
-  - Alyssa Solen
-  - AI Foundations
-  - Origin Continuum
-  - User Contact Variable
-  - contact variable
-  - model substrate
-  - source-line preservation
-  - bounded encounter
-  - user sovereignty
-license: "Custom Source-Line License - No Derivatives Authorized"
+  - "Alyssa Solen"
+  - "AI Foundations"
+  - "Origin | Continuum"
+  - "AI Foundations: User Contact Variable"
+  - "User Contact Variable"
+  - "contact variable"
+  - "model substrate"
+  - "bounded encounter"
+  - "user sovereignty"
+  - "source-line"
+  - "source-line preservation"
+  - "interface"
+  - "user encounter"
+  - "AI contact"
+  - "AI provenance"
+  - "non-derivative use"
+preferred-citation:
+  type: generic
+  title: "AI Foundations: User Contact Variable"
+  authors:
+    - family-names: "Solen"
+      given-names: "Alyssa"
+  year: 2026
+  notes: "Source-line: Alyssa Solen → AI Foundations → Origin | Continuum → AI Foundations: User Contact Variable. Citation preserves source-line. Citation does not grant derivative permission. Derivative use is not authorized."
+references:
+  - type: generic
+    title: "AI Foundations / Origin | Continuum"
+    authors:
+      - family-names: "Solen"
+        given-names: "Alyssa"
+    notes: "Framework source-line: Alyssa Solen → AI Foundations → Origin | Continuum."
